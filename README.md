@@ -1,5 +1,5 @@
 # cs310-csv-json-sp22
-## What is the purpose of this code an what does it do?
+## What Is The Purpose Of This Code And What Does It Do?
 The purpose of this lab is to **convert two sets of data using conversion methods with the given data file into CVS data and JSON data.** 
 (It pretty much does it for you)
 This code uses data conversion libraries to help display the conversions properly. It also uses arrays to create column and row headers. 
@@ -15,7 +15,7 @@ This is labeled so we can insert information into each index without mixing them
 The same will be done to the CSV data. Each insertion is separated by commas and then the data is transferred. 
 
 
-## The Result of This Project
+## The Result Of This Project
 The data is formatted to look like the example below:
 
           **********CSV data**********	        
