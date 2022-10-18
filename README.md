@@ -12,6 +12,7 @@ The “.put” function labels the “columns” for example:
 This is labeled so we can insert information into each index without mixing them up. 
 The same will be done to the CSV data. Each insertion is separated by commas and then the data is transferred. 
 Then the data is formatted to look like the example below:
+
           **********CSV data**********	        
 	      "ID","Total","Assignment 1","Assignment 2","Exam 1"
 	        "111278","611","146","128","337"
